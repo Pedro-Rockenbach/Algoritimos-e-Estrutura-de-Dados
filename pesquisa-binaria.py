@@ -14,5 +14,5 @@ def pesquisa_binaria(lista, item):
 
 minha_lista = [1,3,5,7,9]
 
-print(pesquisa_binaria(minha_lista, 3))
-print(pesquisa_binaria(minha_lista, -1))
+print(pesquisa_binaria(minha_lista, 3)) # mostra a posicao do item na lista
+print(pesquisa_binaria(minha_lista, -1)) # NONE -> item nao encontrado
